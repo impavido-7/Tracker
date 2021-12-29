@@ -1,0 +1,10 @@
+{
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "packagerPid": null,
+  "expoServerNgrokUrl": "https://vr-pck.anonymous.client.exp.direct",
+  "packagerNgrokUrl": "https://packager.vr-pck.anonymous.client.exp.direct",
+  "ngrokPid": 10044,
+  "webpackServerPort": null,
+  "devToolsPort": 19002
+}
